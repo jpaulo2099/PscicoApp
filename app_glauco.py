@@ -175,7 +175,7 @@ diades_db = {
 
 # --- HEADER ---
 st.title("🧩 Diário Emocional")
-st.markdown("Registro guiado baseado em TCC • **Design System v6**")
+st.markdown("Registro de Interações • **Teste v6**")
 st.markdown("<br>", unsafe_allow_html=True)
 
 # ==============================================================================
