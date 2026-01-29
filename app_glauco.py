@@ -1,4 +1,3 @@
-Abaixo, o código Python atualizado com o novo bloco de CSS injetado, aplicando esses conceitos:
 import streamlit as st
 import time
 
